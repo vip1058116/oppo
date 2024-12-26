@@ -814,7 +814,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
      {
-      "name": "脸通",
+      "name": "联同",
       "type": 0,
       "url": "https://raw.github.com/vip1058116/vipmm/refs/heads/main/666.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
