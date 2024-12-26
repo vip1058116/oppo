@@ -5,14 +5,14 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "🌈豆瓣┃武哥专用",
+      "name": "🌈豆瓣┃专用",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
     },
     {
       "key": "配置",
-      "name": "🔧️网盘┃配置4K 修复弹窗 夸夸非会员3G可播",
+      "name": "🔧️网盘┃配置4K ",
       "type": 3,
       "changeable": 0,
       "searchable": 0,
@@ -757,65 +757,79 @@
     },
 
     {
-      "name": "肥猫最可爱",
-      "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
-      "flag": [
-        "mgtv"
+      "名称": "肥猫最可爱",
+      "网址":" http://xn-ihqu10通信网络（Communicating Net的缩写）4c。xn-z7x900a.live/jx.php?id=2&url= "，
+      "标志": [
+“mgtv”
       ],
-      "header": {
-        "User-Agent": "okhttp/4.9.1"
+      "标题": {
+        "用户代理": "确定http/4.9.1 "
       },
-      "type": "1"
+      "类型": "1"
     },
     {
-      "name": "quankan",
-      "type": 1,
-      "url": "https://jx.quankan.app/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "okhttp/4.9.1"
+      "名称": "全看",
+      "类型": 1,
+      "网址": "https://jx.quankan.app/？url= ",
+      "分机": {
+        "标题": {
+          "用户代理": "确定http/4.9.1 "
         }
       }
     },
     {
-      "name": "yparse",
-      "type": 1,
-      "url": "https://jx.yparse.com/index.php?url=",
-      "ext": {
-        "header": {
-          "user-agent": "okhttp/4.9.1"
+      "名称": "你傻了",
+      "类型": 1,
+      "网址": "https://jx.yparse.com/index.php？url= ",
+      "分机": {
+        "标题": {
+          "用户代理": "确定http/4.9.1 "
         }
       }
     },
     {
-      "name": "jsonplayer",
-      "type": 1,
-      "url": "https://jx.jsonplayer.com/player/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "okhttp/4.9.1"
+      "名称": " jsonplayer ",
+      "类型": 1,
+      "网址": "https://jx.jsonplayer.com/player/？url= ",
+      "分机": {
+        "标题": {
+          "用户代理": "确定http/4.9.1 "
         }
       }
     },
 
     {
-      "name": "-VIP-",
-      "type": 1,
-      "url": "http://122.228.85.203:7979/api/?key=ac7be4db3ca9dfbb79ec93a390fa10bb&url="
+      "名称": "——贵宾——",
+      "类型": 1,
+      "网址": "http://122.228.85.203:7979/api/？key = AC 7 be 4 db 3c a9 dfbb 79 EC 93 a 390 fa 10 bb & URL = "
     }
   ],
 
-  "lives": [
+"生命":[
     {
-      "name": "live",
-      "type": 0,
-      "url": "https://12276.kstore.space/888.txt.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+       "名称": " 1d ",
+      "类型": 0,
+      "网址": " https://raw。kkgithub。com/VIP 1058116/vipmm/refs/heads/main/1d。txt ",
+      "电子节目指南": "http://epg.112114.xyz/？ch={name}&date={date} ",
+      "标志": https://EPG . 112114 . XYZ/logo/{ name } .巴布亚新几内亚"
+    },
+     {
+      "名称": " lt ",
+      "类型": 0,
+      "网址": " https://raw。kkgithub。com/VIP 1058116/vipmm/refs/heads/main/666。txt ",
+      "电子节目指南": "http://epg.112114.xyz/？ch={name}&date={date} ",
+      "标志": https://EPG . 112114 . XYZ/logo/{ name } .巴布亚新几内亚"
+    },
+     {
+      "名称": " dx ",
+      "类型": 0,
+      "网址": " https://raw。kkgithub。com/VIP 1058116/vipmm/refs/heads/main/dx。txt ",
+      "电子节目指南": "http://epg.112114.xyz/？ch={name}&date={date} ",
+      "标志": https://EPG . 112114 . XYZ/logo/{ name } .巴布亚新几内亚"
     }
   ],
-   "ads": [
-    "static-mozai.4gtv.tv"
+   "广告": [
+    "静态-mozai.4gtv.tv "
   ]
 }
  
