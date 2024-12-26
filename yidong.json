@@ -807,21 +807,21 @@
 
   "lives": [
     {
-      "name": "yd",
+      "name": "一动",
       "type": 0,
       "url": "https://raw.github.com/vip1058116/vipmm/refs/heads/main/1d.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
      {
-      "name": "lt",
+      "name": "脸通",
       "type": 0,
       "url": "https://raw.github.com/vip1058116/vipmm/refs/heads/main/666.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
      {
-      "name": "dx",
+      "name": "电心",
       "type": 0,
       "url": "https://raw.github.com/vip1058116/vipmm/refs/heads/main/dx.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
