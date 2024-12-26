@@ -444,7 +444,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Bili.json"
+      "ext": "https://github.moeyy.xyz/https://raw.github.com/yoursmile66/TVBox/main/sub/Bili.json"
     },
         {
       "key": "push_agent",
@@ -807,23 +807,23 @@
 
   "lives": [
     {
-      "name": "1d",
+      "name": "yd",
       "type": 0,
-      "url": "https://raw.kkgithub.com/vip1058116/vipmm/refs/heads/main/1d.txt",
+      "url": "https://raw.github.com/vip1058116/vipmm/refs/heads/main/1d.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
      {
       "name": "lt",
       "type": 0,
-      "url": "https://raw.kkgithub.com/vip1058116/vipmm/refs/heads/main/666.txt",
+      "url": "https://raw.github.com/vip1058116/vipmm/refs/heads/main/666.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
      {
       "name": "dx",
       "type": 0,
-      "url": "https://raw.kkgithub.com/vip1058116/vipmm/refs/heads/main/dx.txt",
+      "url": "https://raw.github.com/vip1058116/vipmm/refs/heads/main/dx.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
