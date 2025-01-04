@@ -122,7 +122,7 @@ CCTV戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u
 
 
 河南地方,#genre#
-洛阳-1综合http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?fmt=ts2hls&icpid=
+洛阳-1综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?fmt=ts2hls&icpid=
 洛阳-2科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?fmt=ts2hls&icpid=
 洛阳-3文旅,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227013/1.m3u8?fmt=ts2hls&icpid=
 河南卫视 [4K],http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
