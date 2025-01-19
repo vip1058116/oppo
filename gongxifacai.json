@@ -809,21 +809,21 @@
     {
       "name": "一动",
       "type": 0,
-      "url": "https://raw.kkgithub.com/vip1058116/vipmm/refs/heads/main/1d.txt",
+      "url": "https://raw.github.com/vip1058116/vipmm/refs/heads/main/1d.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
      {
-      "name": "联同",
+      "name": "连桶",
       "type": 0,
-      "url": "https://raw.kkgithub.com/vip1058116/vipmm/refs/heads/main/666.txt",
+      "url": "https://raw.github.com/vip1058116/vipmm/refs/heads/main/666.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
      {
-      "name": "电心",
+      "name": "点心",
       "type": 0,
-      "url": "https://raw.kkgithub.com/vip1058116/vipmm/refs/heads/main/dx.txt",
+      "url": "https://raw.github.com/vip1058116/vipmm/refs/heads/main/dx.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
