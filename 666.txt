@@ -52,10 +52,10 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 和平精英·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 跑跑卡丁车,http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516dd80b1193241687841f128073&token=cpn-androidmpro-0-6672862-ee6297daa5d07f3494aad175947a679df4184f7934380258&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 哒啵电竞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-咪咕视频1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-咪咕视频2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-咪咕视频3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-咪咕视频4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+咪咕频1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+咪咕频2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕频3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+咪咕频4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 咪咕全民热练,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 
 河南本地,#genre#
@@ -89,7 +89,7 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 欧美大片,http://maomao.kandiantv.cn/douyu1.php?id=2793084
 贝爷影厅,http://maomao.kandiantv.cn/douyu1.php?id=252802
 
-申勒电影,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+申勒电,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 神乐剧场,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 网神影厅,https://www.goodiptv.club/douyu/508118
 周星星星,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
@@ -109,7 +109,7 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 新白娘子传奇,http://43.138.170.29:35455/yy/1354930969
 新白娘子修复,https://live.metshop.top/yy/1354930969
 
-最新电影,#genre#
+最新电,#genre#
 [智利]雕形拳,https://vip1.lz-cdn1.com/20230608/21094_b12a3627/2000k/hls/mixed.m3u8
 热辣滚烫TC,https://vip.ffzy-online2.com/20240216/48497_7124419f/2000k/hls/mixed.m3u8#https://vip.ffzy-online2.com/20240216/48497_7124419f/index.m3u8
 第二十条TC,https://v.cdnlz12.com/20240215/11572_dda99b8e/2000k/hls/mixed.m3u8
