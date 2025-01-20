@@ -809,7 +809,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://raw.gitmirror.com/vip1058116/vipmm/refs/heads/main/666.txt",
+      "url": "https://raw.gitmirror.com/vip1058116/vipmm/refs/heads/main/lt.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
