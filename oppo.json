@@ -15,10 +15,10 @@
         }, 		
         {
             "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin",
-            "name": "网盘线路"
+            "name": "往盘线路"
         }, 	
         {
-            "url": "https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json",
+            "url": "https://ghproxy.cn/https://raw.github.com/leevi0709/one/main/jsm.json",
             "name": "One线路"
         }, 		
         {
@@ -38,8 +38,8 @@
             "name": "潇洒线路"
         }, 
         {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
-            "name": "香线路"
+            "url": "https://github.moeyy.xyz/https://raw.github.com/PizazzGY/TVBox/main/api.json",
+            "name": "真香线路"
         },	   
         {
             "url": "http://tvbox.王二小放牛娃.top",
@@ -70,36 +70,36 @@
             "name": "欧歌线路"
         }, 
         {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-            "name": "南风线路"
+            "url": "https://github.moeyy.xyz/https://raw.github.com/yoursmile66/TVBox/main/XC.json",
+            "name": "东风线路"
         }, 		 
         {
-            "url": "https://ghproxy.cn/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json",
-            "name": "月光宝盒"
+            "url": "https://ghproxy.cn/https://raw.github.com/guot55/yg/main/ygbox.json",
+            "name": "月光盒"
         }, 
         {
             "url": "http://www.mpanso.com/小米/DEMO.json",
-            "name": "🚀小米线路"
+            "name": "大米线路"
         }, 		 	
         {
             "url":"https://cdn09022024.gitlink.org.cn/api/v1/repos/feimao/jk/raw/T4.json",
-            "name": "T4线路"
+            "name": "T6线路"
         },	
        {
             "url": "http://我不是.摸鱼儿.com",
-            "name": "摸鱼线路"
+            "name": "摸虾线路"
         }, 		
         {
             "url": "https://毒盒.com/tv",
-            "name": "毒盒线路"
+            "name": "兰盒线路"
         },			
         {
-            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "高天流云"
+            "url":"https://github.moeyy.xyz/https://raw.github.com/gaotianliuyun/gao/master/js.json",
+            "name": "高天"
         },
         {
             "url":"https://gitee.com/yiwu369/6758/raw/master/1.json",
-            "name": "青龙线路"
+            "name": "青龙"
         }		
     ]
 }
