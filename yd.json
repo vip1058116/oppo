@@ -820,7 +820,7 @@
       "name": "爱TV",
       "type": 0,
       "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/yd.txt",
-      "epg": "https://diyp0123.112114.xyz",
+      "epg": "https://diyp0123.112114.xyz/?ch={name}&amp;date={date}",
       "logo": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/vipmm/raw/branch/main/mvp/epg.json"
     }
   ],
