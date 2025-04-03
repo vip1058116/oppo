@@ -81,14 +81,7 @@ CCTV戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u
 山西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
 陕西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226591/1.m3u8
 甘肃卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
-宁夏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226710/1.m3u8
-青海卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226584/1.m3u8
-内蒙古卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226517/1.m3u8
-西藏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226669/1.m3u8
-大湾区卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227278/1.m3u8
-新疆卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226657/1.m3u8
-延边卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227253/1.m3u8
-康巴卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227259/1.m3u8
+
 
 安徽卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226455/index.m3u8
 浙江卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226682/index.m3u8
@@ -115,10 +108,10 @@ CCTV戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u
 湖南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226659/index.m3u8
 湖南欢乐垂钓,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226670/index.m3u8
 湖南茶频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226647/index.m3u8
-陕西卫视 [标清],http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
-广西卫视 [标清],http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-甘肃卫视 [标清],http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
-青海卫视 [标清],http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226584/index.m3u8
+陕西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
+广西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+甘肃卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
+
 
 
 河南地方,#genre#
@@ -168,16 +161,16 @@ CCTV戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u
 百姓调解,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8
 
 竞技体育,#genre#
-晴彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/tvbox6_com/3221226124/index.m3u8
-晴彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/tvbox6_com/3221226147/index.m3u8
-睛彩青少,http://ottrrs.hl.chinamobile.com/TVOD/88888888/tvbox6_com/3221226508/index.m3u8
-睛彩广场舞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/tvbox6_com/3221226472/index.m3u8
 超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 穿越火线,http://tc-tct.douyucdn2.cn:80/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 跑跑卡丁车,http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516dd80b1193241687841f128073&token=cpn-androidmpro-0-6672862-ee6297daa5d07f3494aad175947a679df4184f7934380258&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+晴彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/tvbox6_com/3221226124/index.m3u8
+晴彩篮球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/tvbox6_com/3221226147/index.m3u8
+睛彩青少,http://ottrrs.hl.chinamobile.com/TVOD/88888888/tvbox6_com/3221226508/index.m3u8
+睛彩广场舞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/tvbox6_com/3221226472/index.m3u8
 哒啵电竞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 咪咕视频1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕视频2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
@@ -193,10 +186,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8
 金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226668/index.m3u8
-嘉佳卡通 [标清],http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226601/index.m3u8
-卡酷少儿 [标清],http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226640/index.m3u8
-哈哈炫动 [标清],http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226596/index.m3u8
-优漫卡通 [标清],http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226606/index.m3u8
 
 
 龙江央视,#genre#
@@ -219,22 +208,6 @@ CCTV-14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV-15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV-16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-
-CCTV-1,http://39.134.68.155:6610/PLTV/88888888/224/3221226016/index.m3u8?
-CCTV-2,http://39.134.68.155:6610/PLTV/88888888/224/3221225588/index.m3u8?
-CCTV-3,http://39.134.68.155:6610/PLTV/88888888/224/3221226021/index.m3u8?
-CCTV-4,http://39.134.68.155:6610/PLTV/88888888/224/3221226007/index.m3u8?
-CCTV-5,http://39.134.68.155:6610/PLTV/88888888/224/3221226019/index.m3u8?
-CCTV-5+,http://39.134.68.155:6610/PLTV/88888888/224/3221225603/index.m3u8?
-CCTV-6,http://39.134.68.155:6610/PLTV/88888888/224/3221226010/index.m3u8?
-CCTV-9,http://39.134.68.155:6610/PLTV/88888888/224/3221225734/index.m3u8?
-CCTV-10,http://39.134.68.155:6610/PLTV/88888888/224/3221225730/index.m3u8?
-CCTV-12,http://39.134.68.155:6610/PLTV/88888888/224/3221225731/index.m3u8?
-CCTV-13,http://39.134.68.155:6610/PLTV/88888888/224/3221226011/index.m3u8?
-CCTV-14,http://39.134.68.155:6610/PLTV/88888888/224/3221225732/index.m3u8?
-CCTV-15,http://39.134.68.155:6610/PLTV/88888888/224/3221225601/index.m3u8?
-CCTV-16,http://39.134.68.155:6610/PLTV/88888888/224/3221226100/index.m3u8?
-CCTV-17,http://39.134.68.155:6610/PLTV/88888888/224/3221225765/index.m3u8?
 
 
 龙江卫视,#genre#
@@ -295,32 +268,6 @@ CCTV-17,http://39.134.68.155:6610/PLTV/88888888/224/3221225765/index.m3u8?
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-
-金牌综艺,http://39.134.68.155:6610/PLTV/88888888/224/3221225666/index.m3u8?
-精品大剧,http://39.134.68.155:6610/PLTV/88888888/224/3221225670/index.m3u8?
-精品综合,http://39.134.68.155:6610/PLTV/88888888/224/3221225664/index.m3u8?
-超级综艺,http://39.134.68.155:6610/PLTV/88888888/224/3221225714/index.m3u8?
-欢乐剧场,http://39.134.68.155:6610/PLTV/88888888/224/3221225742/index.m3u8?
-热播精选,http://39.134.68.155:6610/PLTV/88888888/224/3221225671/index.m3u8?
-超级电视剧,http://39.134.68.155:6610/PLTV/88888888/224/3221225716/index.m3u8?
-古装剧场,http://39.134.68.155:6610/PLTV/88888888/224/3221225663/index.m3u8?
-动作电影,http://39.134.68.155:6610/PLTV/88888888/224/3221225661/index.m3u8?
-军事评论,http://39.134.68.155:6610/PLTV/88888888/224/3221225668/index.m3u8?
-惊悚悬疑,http://39.134.68.155:6610/PLTV/88888888/224/3221225665/index.m3u8?
-爱情喜剧,http://39.134.68.155:6610/PLTV/88888888/224/3221225669/index.m3u8?
-精品纪录,http://39.134.68.155:6610/PLTV/88888888/224/3221225672/index.m3u8?
-怡伴健康,http://39.134.68.155:6610/PLTV/88888888/224/3221225673/index.m3u8?
-精品体育,http://39.134.68.155:6610/PLTV/88888888/224/3221225674/index.m3u8?
-军旅剧场,http://39.134.68.155:6610/PLTV/88888888/224/3221225676/index.m3u8?
-家庭剧场,http://39.134.68.155:6610/PLTV/88888888/224/3221225677/index.m3u8?
-武搏世界,http://39.134.68.155:6610/PLTV/88888888/224/3221225680/index.m3u8?
-中国功夫,http://39.134.68.155:6610/PLTV/88888888/224/3221225681/index.m3u8?
-农业致富,http://39.134.68.155:6610/PLTV/88888888/224/3221225683/index.m3u8?
-潮妈辣婆,http://39.134.68.155:6610/PLTV/88888888/224/3221225685/index.m3u8?
-超级体育,http://39.134.68.155:6610/PLTV/88888888/224/3221225715/index.m3u8?
-超级电影,http://39.134.68.155:6610/PLTV/88888888/224/3221225717/index.m3u8?
-炫舞未来,http://39.134.68.155:6610/PLTV/88888888/224/3221225719/index.m3u8?
-东北热剧,http://39.134.68.155:6610/PLTV/88888888/224/3221225741/index.m3u8?
 
 
 春晚频道,#genre#
