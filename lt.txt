@@ -68,7 +68,7 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 动感舞曲,#genre#
 今日热歌DJ《如果爱还在》,https://vd2.bdstatic.com/mda-mhhf5mr00yyhpfjs/1080p/cae_h264/1629284581057661229/mda-mhhf5mr00yyhpfjs.mp4
 风采-黄家驹,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201217/5623330UVqF1sc8YPbod665sH.mp4
-风采-黄家驹,ht3tps://www-api-cdn.u2378710.nyat.app:22088/vip1058/vipmm/raw/branch/main/mvp/%E9%A3%8E%E9%87%87-%E9%BB%84%E5%AE%B6%E9%A9%B9.mp4
+风采-黄家驹,http://192.168.0.107:8418/vip1058/oppo/raw/branch/main/%E9%A3%8E%E9%87%87-%E9%BB%84%E5%AE%B6%E9%A9%B9.mp4
 许巍-蓝莲花(演唱会),http://em.21dtv.com/songs/60026063.mkv
 伍佰-挪威的森林(演唱会),http://em.21dtv.com/songs/60032810.mkv
 
