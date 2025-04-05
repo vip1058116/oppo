@@ -444,7 +444,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/Bili.json"
+      "ext": "https://github.moeyy.xyz/https://raw.github.com/yoursmile66/TVBox/main/sub/Bili.json"
     },
         {
       "key": "push_agent",
@@ -809,7 +809,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/vipmm/raw/branch/main/mvp/dx.txt",
+      "url": "https://raw.github.com/vip1058116/oppo/refs/heads/main/dx.txt",
       "epg": "https://diyp0123.112114.xyz/",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
