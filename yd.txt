@@ -112,7 +112,7 @@ CCTV戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u
 陕西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
 广西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 甘肃卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
-
+青海卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226584/index.m3u8
 
 
 河南地方,#genre#
