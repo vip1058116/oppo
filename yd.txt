@@ -129,7 +129,7 @@ CCTV戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u
 河南国际,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226925/10000100000000060000000008219376_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南乡村,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226948/10000100000000060000000008219379_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南新闻,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226915/10000100000000060000000008219385_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
-大美河南,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227105/10000100000000060000000011665501_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
+4k超高清,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227105/10000100000000060000000011665501_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南中华特产,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226897/10000100000000060000000008198644_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 郑州都市生活,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227021/10000100000000060000000008223583_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 郑州妇女儿童,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227050/10000100000000060000000008223580_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
