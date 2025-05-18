@@ -6,6 +6,7 @@ CCTV-4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226923/1.m3u8?fm
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227357/index.m3u8?fmt=ts2hls
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8
+CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227426/index.m3u8
 CCTV-5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8?fmt=ts2hls
 CCTV-5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?fmt=ts2hls
 CCTV-6,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?fmt=ts2hls
@@ -60,6 +61,7 @@ CCTV戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u
 北京卫视,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221226677/index.m3u8
 北京卫视,http://39.135.168.36/wh7f454c46tw3873319710_-908059622/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227122/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1742893012&from=1&hms_devid=18458&vqe=3
 北京卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226519/1.m3u8
+北京卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227411/index.m3u8
 东方卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226681/1.m3u8
 天津卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226621/1.m3u8
 山东卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226564/1.m3u8
