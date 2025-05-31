@@ -59,10 +59,10 @@ CCTV戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/1.m3u8
 江苏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226722/1.m3u8
 浙江卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226682/1.m3u8
-北京卫视,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221226677/index.m3u8
-北京卫视,http://39.135.168.36/wh7f454c46tw3873319710_-908059622/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227122/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1742893012&from=1&hms_devid=18458&vqe=3
+北京卫视4K,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221226677/index.m3u8
+北京卫视4K,http://39.135.168.36/wh7f454c46tw3873319710_-908059622/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227122/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1742893012&from=1&hms_devid=18458&vqe=3
 北京卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226519/1.m3u8
-北京卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227411/index.m3u8
+北京卫视4KK,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227411/index.m3u8
 东方卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226681/1.m3u8
 天津卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226621/1.m3u8
 山东卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226564/1.m3u8
@@ -122,8 +122,6 @@ CCTV戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u
 洛阳-1综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?fmt=ts2hls&icpid=
 洛阳-2科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?fmt=ts2hls&icpid=
 洛阳-3文旅,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227013/1.m3u8?fmt=ts2hls&icpid=
-
-河南移动电视,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226872/10000100000000060000000008192614_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南民生,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226913/10000100000000060000000008219388_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南都市,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226911/10000100000000060000000008219389_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南电视剧,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226942/10000100000000060000000008219386_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
@@ -137,7 +135,7 @@ CCTV戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u
 郑州文体旅游,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226996/10000100000000060000000008223506_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 郑州新闻综合,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226949/10000100000000060000000008223500_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 郑州影视戏曲,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227000/10000100000000060000000008223511_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
-
+河南移动电视,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226872/10000100000000060000000008192614_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 百姓调解,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226966/10000100000000060000000008219360_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南收藏天下,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226931/10000100000000060000000008219369_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 中华功夫,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226962/10000100000000060000000008219365_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
