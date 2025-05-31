@@ -121,7 +121,7 @@ CCTV戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u
 洛阳-1综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?fmt=ts2hls&icpid=
 洛阳-2科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?fmt=ts2hls&icpid=
 洛阳-3文旅,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227013/1.m3u8?fmt=ts2hls&icpid=
-河南IPTV导视,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226934/10000100000000060000000008219394_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
+
 河南移动电视,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226872/10000100000000060000000008192614_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南民生,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226913/10000100000000060000000008219388_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南都市,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226911/10000100000000060000000008219389_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
@@ -265,7 +265,7 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 龙江剧场,#genre#
 欢笑剧场4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226704/1.m3u8
 明星大片,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+
 军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
