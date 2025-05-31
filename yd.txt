@@ -129,11 +129,8 @@ CCTV戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u
 河南电视剧,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226942/10000100000000060000000008219386_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南法治,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226940/10000100000000060000000008219387_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南公共,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226946/10000100000000060000000008219382_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
-
 河南乡村,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226948/10000100000000060000000008219379_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南新闻,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226915/10000100000000060000000008219385_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
-4k超高清,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227105/10000100000000060000000011665501_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
-
 郑州都市生活,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227021/10000100000000060000000008223583_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 郑州妇女儿童,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227050/10000100000000060000000008223580_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 郑州商都频道,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226955/10000100000000060000000008223504_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
@@ -266,8 +263,6 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 龙江剧场,#genre#
 欢笑剧场4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226704/1.m3u8
 明星大片,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-
-军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 精品大剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 海外剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
@@ -285,7 +280,7 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-
+军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 
 春晚频道,#genre#
 春晚1983,https://vd2.bdstatic.com/mda-nmgf0aiczefpbjyv/360p/h264/1671273368681637465/mda-nmgf0aiczefpbjyv.mp4
