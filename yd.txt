@@ -164,6 +164,8 @@ CCTV戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u
 百姓调解,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8
 
 竞技体育,#genre#
+深圳卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227428/index.m3u8
+广东卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227415/index.m3u8
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227426/index.m3u8
 CCTV4K,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227105/10000100000000060000000011665501_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227357/index.m3u8?fmt=ts2hls
