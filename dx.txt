@@ -22,6 +22,8 @@ CCTV-17,http://222.85.81.15:6060/PLTV1/360/index.m3u8?icpid=dxrm1&servicetype=
 
 
 地方频道,#genre#
+郑州影视戏曲,http://222.85.81.15:6060/PLTV1/1740/index.m3u8?icpid=dxrm1&servicetype=
+梨园频道,http://222.85.81.15:6060/PLTV1/840/index.m3u8?icpid=dxrm1&servicetype=
 移动戏曲,http://222.85.81.15:6060/PLTV1/800/index.m3u8?icpid=dxrm1&servicetype=
 伊川电视台,http://222.85.81.15:6060/PLTV2/2600/index.m3u8?icpid=dxrm2&servicetype=
 洛阳综合频道,http://222.85.81.15:6060/PLTV1/1840/index.m3u8?icpid=dxrm1&servicetype=
@@ -40,7 +42,7 @@ CCTV-17,http://222.85.81.15:6060/PLTV1/360/index.m3u8?icpid=dxrm1&servicetype=
 郑州时政,http://222.85.81.15:6060/PLTV1/1680/index.m3u8?icpid=dxrm1&servicetype=
 郑州商都,http://222.85.81.15:6060/PLTV1/1700/index.m3u8?icpid=dxrm1&servicetype=
 郑州文体,http://222.85.81.15:6060/PLTV1/1720/index.m3u8?icpid=dxrm1&servicetype=
-郑州影视戏曲,http://222.85.81.15:6060/PLTV1/1740/index.m3u8?icpid=dxrm1&servicetype=
+
 郑州妇女儿童,http://222.85.81.15:6060/PLTV1/1760/index.m3u8?icpid=dxrm1&servicetype=
 郑州都市生活,http://222.85.81.15:6060/PLTV1/1780/index.m3u8?icpid=dxrm1&servicetype=
 开封新闻频道,http://222.85.81.15:6060/PLTV1/1800/index.m3u8?icpid=dxrm1&servicetype=
@@ -99,7 +101,7 @@ CCTV-17,http://222.85.81.15:6060/PLTV1/360/index.m3u8?icpid=dxrm1&servicetype=
 导视,http://222.85.81.15:6060/PLTV2/3540/index.m3u8?icpid=dxrm2&servicetype=
 
 文物宝库,http://222.85.81.15:6060/PLTV1/820/index.m3u8?icpid=dxrm1&servicetype=
-梨园频道,http://222.85.81.15:6060/PLTV1/840/index.m3u8?icpid=dxrm1&servicetype=
+
 武术世界,http://222.85.81.15:6060/PLTV1/860/index.m3u8?icpid=dxrm1&servicetype=
 美食汇,http://222.85.81.15:6060/PLTV1/880/index.m3u8?icpid=dxrm1&servicetype=
 棋牌汇,http://222.85.81.15:6060/PLTV1/900/index.m3u8?icpid=dxrm1&servicetype=
