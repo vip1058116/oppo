@@ -76,7 +76,9 @@ CCTV戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u
 山西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8
 陕西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226591/1.m3u8
 甘肃卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
-
+新疆卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226953/01.m3u8?fmt=ts2hls
+西藏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226951/01.m3u8?fmt=ts2hls
+兵团卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227373/01.m3u8?fmt=ts2hls
 
 安徽卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226455/index.m3u8
 浙江卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226682/index.m3u8
