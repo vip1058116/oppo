@@ -36,7 +36,7 @@ CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/1.m3u8
 CCTV-17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/1.m3u8
 CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226592/1.m3u8
 
-戏曲频道,#ge33nre#
+戏曲频道,#ge333nre#
 豫剧频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8?fmt=ts2hls&icpid=
 豫剧频道,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227000/10000100000000060000000008223511_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 移动戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8
