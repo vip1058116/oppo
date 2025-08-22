@@ -12,7 +12,7 @@
     },
     {
       "key": "配置",
-      "name": "网盘4K 夸夸非会员可播",
+      "name": "网盘4K可播",
       "type": 3,
       "changeable": 0,
       "searchable": 0,
@@ -20,7 +20,7 @@
     },
 {
       "key": "csp_wanou",
-      "name": "🧸玩偶┃4K4K",
+      "name": "玩偶┃4K4K",
       "api": "csp_Wogg",
       "type": 3,
       "searchable": 1,
@@ -35,7 +35,7 @@
     },
  {
       "key": "csp_xiaomi",
-      "name": "🌹米UC┃4K4K",
+      "name": "米UC┃4K4K",
       "type": 3,
       "api": "csp_Duopan",
       "changeable": 0,
@@ -43,14 +43,14 @@
     },
  {
       "key": "米搜",
-      "name": "🌾米搜┃4K4K",
+      "name": "米搜┃4K4K",
       "type": 3,
       "api": "csp_MiSou",
       "changeable": 0
     },
          {
       "key": "csp_Netfixtv",
-      "name": "💯至臻┃4K4K",
+      "name": "至臻┃4K4K",
       "type": 3,
       "api": "csp_Duopan",
       "changeable": 0,
