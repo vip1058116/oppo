@@ -1,5 +1,5 @@
-﻿央视频道,#genre#
-
+﻿
+央视频道,#genre#
 CCTV-1,http://222.85.81.15:6060/PLTV1/40/index.m3u8?icpid=dxrm1&servicetype=
 CCTV-2,http://222.85.81.15:6060/PLTV1/60/index.m3u8?icpid=dxrm1&servicetype=
 CCTV-3,http://222.85.81.15:6060/PLTV1/80/index.m3u8?icpid=dxrm1&servicetype=
@@ -18,7 +18,7 @@ CCTV-14,http://222.85.81.15:6060/PLTV1/300/index.m3u8?icpid=dxrm1&servicetype=
 CCTV-15,http://222.85.81.15:6060/PLTV1/320/index.m3u8?icpid=dxrm1&servicetype=
 CCTV-16,http://222.85.69.145/PLTV/88888888/224/3221227261/index.m3u8
 CCTV-17,http://222.85.81.15:6060/PLTV1/360/index.m3u8?icpid=dxrm1&servicetype=
-中国教育-1,http://222.85.81.15:6060/PLTV1/400/index.m3u8?icpid=dxrm1&servicetype=
+中国教育,http://222.85.81.15:6060/PLTV1/400/index.m3u8?icpid=dxrm1&servicetype=
 
 
 地方频道,#genre#
@@ -108,12 +108,15 @@ CCTV-17,http://222.85.81.15:6060/PLTV1/360/index.m3u8?icpid=dxrm1&servicetype=
 调解剧场,http://222.85.81.15:6060/PLTV1/920/index.m3u8?icpid=dxrm1&servicetype=
 国学频道,http://222.85.81.15:6060/PLTV2/3720/index.m3u8?icpid=dxrm2&servicetype=
 
-卫视频道,#genre#
 
+卫视频道,#genre#
+北京卫视,http://222.85.81.15:6060/PLTV1/1020/index.m3u8?icpid=dxrm1&servicetype=
+深圳卫视,http://222.85.81.15:6060/PLTV1/1240/index.m3u8?icpid=dxrm1&servicetype=
+天津卫视,http://222.85.81.15:6060/PLTV1/1300/index.m3u8?icpid=dxrm1&servicetype=
+湖南卫视,http://222.85.81.15:6060/PLTV1/1220/index.m3u8?icpid=dxrm1&servicetype=
 浙江卫视,http://222.85.81.15:6060/PLTV1/960/index.m3u8?icpid=dxrm1&servicetype=
 东方卫视,http://222.85.81.15:6060/PLTV1/980/index.m3u8?icpid=dxrm1&servicetype=
 江苏卫视,http://222.85.81.15:6060/PLTV1/1000/index.m3u8?icpid=dxrm1&servicetype=
-北京卫视,http://222.85.81.15:6060/PLTV1/1020/index.m3u8?icpid=dxrm1&servicetype=
 广东卫视,http://222.85.81.15:6060/PLTV1/1040/index.m3u8?icpid=dxrm1&servicetype=
 黑龙江,http://222.85.81.15:6060/PLTV1/1060/index.m3u8?icpid=dxrm1&servicetype=
 山东卫视,http://222.85.81.15:6060/PLTV1/1080/index.m3u8?icpid=dxrm1&servicetype=
@@ -123,11 +126,8 @@ CCTV-17,http://222.85.81.15:6060/PLTV1/360/index.m3u8?icpid=dxrm1&servicetype=
 贵州卫视,http://222.85.81.15:6060/PLTV1/1160/index.m3u8?icpid=dxrm1&servicetype=
 河北卫视,http://222.85.81.15:6060/PLTV1/1180/index.m3u8?icpid=dxrm1&servicetype=
 江西卫视,http://222.85.81.15:6060/PLTV1/1200/index.m3u8?icpid=dxrm1&servicetype=
-湖南卫视,http://222.85.81.15:6060/PLTV1/1220/index.m3u8?icpid=dxrm1&servicetype=
-深圳卫视,http://222.85.81.15:6060/PLTV1/1240/index.m3u8?icpid=dxrm1&servicetype=
 四川卫视,http://222.85.81.15:6060/PLTV1/1260/index.m3u8?icpid=dxrm1&servicetype=
 湖北卫视,http://222.85.81.15:6060/PLTV1/1280/index.m3u8?icpid=dxrm1&servicetype=
-天津卫视,http://222.85.81.15:6060/PLTV1/1300/index.m3u8?icpid=dxrm1&servicetype=
 云南卫视,http://222.85.81.15:6060/PLTV1/1320/index.m3u8?icpid=dxrm1&servicetype=
 重庆卫视,http://222.85.81.15:6060/PLTV1/1340/index.m3u8?icpid=dxrm1&servicetype=
 吉林卫视,http://222.85.81.15:6060/PLTV1/1360/index.m3u8?icpid=dxrm1&servicetype=
