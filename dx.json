@@ -21,7 +21,7 @@
     },
     {
       "key": "配置",
-      "name": "网盘4K 夸夸非会员可播",
+      "name": "盘4K 夸夸可播",
       "type": 3,
       "changeable": 0,
       "searchable": 0,
@@ -29,7 +29,7 @@
     },
 {
       "key": "csp_wanou",
-      "name": "🧸玩偶┃4K4K",
+      "name": "🧸玩┃4K4K",
       "api": "csp_Wogg",
       "type": 3,
       "searchable": 1,
