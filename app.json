@@ -17,12 +17,6 @@
             "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/dx.json",
             "name": "点心"
         }, 		
-        	
-        {
-            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin",
-            "name": "往盘线路"
-        }, 	
-        		
         {
             "url": "http://ok321.top/tv",
             "name": "ko线路"
@@ -35,8 +29,5 @@
             "url": "https://6296.kstore.vip/fm.gif",
             "name": "肥猫03"
         },                    
-       		
-        
-        
     ]
 }
