@@ -32,7 +32,7 @@
 {"name":"斗鱼一起看","type":0,"url":"https://sub.ottiptv.cc/douyuyqk.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
 {"name":"B站直播","type":0,"url":"https://sub.ottiptv.cc/bililive.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"},
 {"name":"YY轮播","type":0,"url":"https://sub.ottiptv.cc/yylunbo.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"}
-]
+],
 "sites":[
 {"key":"豆","name":"夸父有问题的看公众号推文【神秘的哥哥们】","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGGGuard","timeout":30,"searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.com/","danMu":"弹"}},
