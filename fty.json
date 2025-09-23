@@ -1,8 +1,10 @@
 ﻿    
-//  当前接口：ht2tp://www.饭太硬.com/tv
+
 {
 "spider":"https://coss.yupoo.com/upchat/2025-09-22/1758537855577.jpg;md5;4fd08ed97a83386bdfa8359b0e276563",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
+"logo":"https://cdn.wmpvp.com/steamWeb/B96F868DE45B45D690B5F9F490D0BC60-1745866248445.gif",
+
 "lives": [
           {
             "name": "蜂蜜",
@@ -92,6 +94,4 @@
 {"key":"fan","name":"导航 www.饭太硬.com","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0},
 {"key":"cc","name":"请勿相信视频中广告","type":3,"api":"csp_XPathGuard","searchable":1,"quickSearch":0,"changeable":0}
 ],
-"logo":"https://cdn.wmpvp.com/steamWeb/B96F868DE45B45D690B5F9F490D0BC60-1745866248445.gif",
-//"logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1738054786827/wushi3.gif"
 }
