@@ -9,7 +9,7 @@
             "name": "蜂蜜",
             "type": 0,
             "playerType": 2,
-            "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/fm.txt",
+            "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/afm.txt",
             "epg": "http://diyp0123.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
          },
@@ -17,7 +17,7 @@
             "name": "点心",
             "type": 0,
             "playerType": 2,
-            "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/dx.txt",
+            "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/adx.txt",
             "epg": "http://diyp0123.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -25,7 +25,7 @@
             "name": "一动",
             "type": 0,
             "playerType": 2,
-            "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/yd.txt",
+            "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/ayd.txt",
             "epg": "http://diyp0123.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
