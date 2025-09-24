@@ -6,10 +6,10 @@
 
 "lives":[
         {
-            "name": "蜂蜜",
+            "name": "连彤",
             "type": 0,
             "playerType": 2,
-            "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/afm.txt",
+            "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/alt.txt",
             "epg": "http://diyp0123.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
          },
