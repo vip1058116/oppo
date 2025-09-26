@@ -9,7 +9,7 @@
             "name": "连彤",
             "type": 0,
             "playerType": 2,
-            "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/alt.txt",
+            "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/lt.txt",
             "epg": "http://diyp0123.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
          },
@@ -17,7 +17,7 @@
             "name": "点心",
             "type": 0,
             "playerType": 2,
-            "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/adx.txt",
+            "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/dx.txt",
             "epg": "http://diyp0123.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -25,14 +25,14 @@
             "name": "一动",
             "type": 0,
             "playerType": 2,
-            "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/ayd.txt",
+            "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/yd.txt",
             "epg": "http://diyp0123.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
 {"name":"B站直播","type":0,"url":"https://sub.ottiptv.cc/bililive.m3u","playerType":2,"timeout":10,"ua":"okHttp/Mod-1.4.0.0"}
 ],
 "sites":[
-{"key":"豆","name":"夸父有问题的看公众号推文【神秘的哥哥们】","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"豆","name":"有问题的看公众号推文【神秘","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGGGuard","timeout":30,"searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.com/","danMu":"弹"}},
 {"key":"YGP","name":"🚀叨观荐影┃预告片","type":3,"api":"csp_YGPGuard","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"alllive","name":"📽️一直播┃直播","type":3,"api":"csp_AllliveGuard","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
