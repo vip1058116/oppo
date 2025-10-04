@@ -6,26 +6,26 @@
 
 "lives":[
         {
-            "name": "连彤",
-            "type": 0,
-            "playerType": 2,
-            "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/lt.txt",
-            "epg": "http://diyp0123.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-         },
-         {
             "name": "点心",
             "type": 0,
             "playerType": 2,
             "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/dx.txt",
             "epg": "http://diyp0123.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
+         },
+         {
             "name": "一动",
             "type": 0,
             "playerType": 2,
             "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/yd.txt",
+            "epg": "http://diyp0123.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "连彤",
+            "type": 0,
+            "playerType": 2,
+            "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/lt.txt",
             "epg": "http://diyp0123.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
