@@ -61,6 +61,13 @@ CCTV-17,http://222.85.81.15:6060/PLTV1/360/index.m3u8?icpid=dxrm1&servicetype=
 棋牌汇,http://222.85.81.15:6060/PLTV1/900/index.m3u8?icpid=dxrm1&servicetype=
 调解剧场,http://222.85.81.15:6060/PLTV1/920/index.m3u8?icpid=dxrm1&servicetype=
 国学频道,http://222.85.81.15:6060/PLTV2/3720/index.m3u8?icpid=dxrm2&servicetype=
+东方卫视,http://222.85.69.6/PLTV/88888888/224/3221227271/index.m3u8
+山东卫视,http://222.85.69.6/PLTV/88888888/224/3221227274/index.m3u8
+浙江卫视,http://222.85.69.6/PLTV/88888888/224/3221227275/index.m3u8
+湖南卫视,http://222.85.69.6/PLTV/88888888/224/3221227278/index.m3u8
+CCTV4K,http://222.85.69.6/PLTV/88888888/224/3221227244/index.m3u8
+江苏卫视,http://222.85.69.6/PLTV/88888888/224/3221227330/index.m3u8
+四川卫视,http://222.85.69.6/PLTV/88888888/224/3221227333/index.m3u8
 
 
 卫视频道,#genre#
