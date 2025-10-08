@@ -19,8 +19,6 @@ CCTV-15,http://222.85.81.15:6060/PLTV1/320/index.m3u8?icpid=dxrm1&servicetype=
 CCTV-17,http://222.85.81.15:6060/PLTV1/360/index.m3u8?icpid=dxrm1&servicetype=
 中国教育,http://222.85.81.15:6060/PLTV1/400/index.m3u8?icpid=dxrm1&servicetype=
 央视4K,http://222.85.69.145/PLTV/88888888/224/3221227244/index.m3u8
-导视,http://222.85.81.15:6060/PLTV2/3540/index.m3u8?icpid=dxrm2&servicetype=
-
 
 地方频道,#genre#
 郑州影视戏曲,http://222.85.81.15:6060/PLTV1/1740/index.m3u8?icpid=dxrm1&servicetype=
@@ -224,13 +222,9 @@ CCTV-12,http://222.85.69.145/PLTV/88888888/224/3221227044/index.m3u8
 CCTV-新闻,http://222.85.69.145/PLTV/88888888/224/3221227041/index.m3u8
 CCTV-少儿,http://222.85.69.145/PLTV/88888888/224/3221227038/index.m3u8
 CCTV-音乐,http://222.85.69.145/PLTV/88888888/224/3221227037/index.m3u8
-CCTV-16-4K,http://222.85.69.145/PLTV/88888888/224/3221227261/index.m3u8
 CCTV-17,http://222.85.69.145/PLTV/88888888/224/3221227072/index.m3u8
 
 中国教育-1,http://222.85.69.145/PLTV/88888888/224/3221227034/index.m3u8
-河南移动电视,http://222.85.69.145/PLTV/88888888/224/3221227216/index.m3u8
-CGTN,http://222.85.69.145/PLTV/88888888/224/3221227075/index.m3u8
-
 河南卫视,http://222.85.69.145/PLTV/88888888/224/3221226984/index.m3u8
 都市频道,http://222.85.69.145/PLTV/88888888/224/3221226974/index.m3u8
 民生频道,http://222.85.69.145/PLTV/88888888/224/3221226994/index.m3u8
