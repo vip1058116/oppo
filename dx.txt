@@ -16,10 +16,10 @@ CCTV-12,http://222.85.81.15:6060/PLTV1/260/index.m3u8?icpid=dxrm1&servicetype=
 CCTV-13,http://222.85.81.15:6060/PLTV1/280/index.m3u8?icpid=dxrm1&servicetype=
 CCTV-14,http://222.85.81.15:6060/PLTV1/300/index.m3u8?icpid=dxrm1&servicetype=
 CCTV-15,http://222.85.81.15:6060/PLTV1/320/index.m3u8?icpid=dxrm1&servicetype=
-CCTV-16,http://222.85.69.145/PLTV/88888888/224/3221227261/index.m3u8
 CCTV-17,http://222.85.81.15:6060/PLTV1/360/index.m3u8?icpid=dxrm1&servicetype=
 中国教育,http://222.85.81.15:6060/PLTV1/400/index.m3u8?icpid=dxrm1&servicetype=
 央视4K,http://222.85.69.145/PLTV/88888888/224/3221227244/index.m3u8
+导视,http://222.85.81.15:6060/PLTV2/3540/index.m3u8?icpid=dxrm2&servicetype=
 
 
 地方频道,#genre#
@@ -40,25 +40,13 @@ CCTV-17,http://222.85.81.15:6060/PLTV1/360/index.m3u8?icpid=dxrm1&servicetype=
 国际频道,http://222.85.81.15:6060/PLTV1/680/index.m3u8?icpid=dxrm1&servicetype=
 睛彩中原,http://222.85.81.15:6060/PLTV1/700/index.m3u8?icpid=dxrm1&servicetype=
 郑州时政,http://222.85.81.15:6060/PLTV1/1680/index.m3u8?icpid=dxrm1&servicetype=
-郑州商都,http://222.85.81.15:6060/PLTV1/1700/index.m3u8?icpid=dxrm1&servicetype=
-郑州文体,http://222.85.81.15:6060/PLTV1/1720/index.m3u8?icpid=dxrm1&servicetype=
-郑州妇女儿童,http://222.85.81.15:6060/PLTV1/1760/index.m3u8?icpid=dxrm1&servicetype=
-郑州都市生活,http://222.85.81.15:6060/PLTV1/1780/index.m3u8?icpid=dxrm1&servicetype=
 开封新闻频道,http://222.85.81.15:6060/PLTV1/1800/index.m3u8?icpid=dxrm1&servicetype=
-开封公共频道,http://222.85.81.15:6060/PLTV1/1820/index.m3u8?icpid=dxrm1&servicetype=
-平顶山新闻,http://222.85.81.15:6060/PLTV1/1900/index.m3u8?icpid=dxrm1&servicetype=
 许昌综合频道,http://222.85.81.15:6060/PLTV2/2180/index.m3u8?icpid=dxrm2&servicetype=
-渑池一套,http://222.85.81.15:6060/PLTV2/3860/index.m3u8?icpid=dxrm2&servicetype=
-嵩县一套,http://222.85.81.15:6060/PLTV2/3900/index.m3u8?icpid=dxrm2&servicetype=
-郏县一套,http://222.85.81.15:6060/PLTV2/3910/index.m3u8?icpid=dxrm2&servicetype=
 河南卫视4K,http://222.85.81.15:6060/PLTV2/2780/index.m3u8?icpid=dxrm2&servicetype=
-导视,http://222.85.81.15:6060/PLTV2/3540/index.m3u8?icpid=dxrm2&servicetype=
+
 文物宝库,http://222.85.81.15:6060/PLTV1/820/index.m3u8?icpid=dxrm1&servicetype=
 武术世界,http://222.85.81.15:6060/PLTV1/860/index.m3u8?icpid=dxrm1&servicetype=
 美食汇,http://222.85.81.15:6060/PLTV1/880/index.m3u8?icpid=dxrm1&servicetype=
-棋牌汇,http://222.85.81.15:6060/PLTV1/900/index.m3u8?icpid=dxrm1&servicetype=
-调解剧场,http://222.85.81.15:6060/PLTV1/920/index.m3u8?icpid=dxrm1&servicetype=
-国学频道,http://222.85.81.15:6060/PLTV2/3720/index.m3u8?icpid=dxrm2&servicetype=
 
 东方卫视,http://222.85.69.6/PLTV/88888888/224/3221227271/index.m3u8
 山东卫视,http://222.85.69.6/PLTV/88888888/224/3221227274/index.m3u8
