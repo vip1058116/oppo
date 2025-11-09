@@ -52,7 +52,6 @@ CCTV-17,http://222.85.81.15:6060/PLTV1/360/index.m3u8?icpid=dxrm1&servicetype=
 湖南卫视4K,http://222.85.69.145/PLTV/88888888/224/3221227278/index.m3u8
 江苏卫视4K,http://222.85.69.145/PLTV/88888888/224/3221227330/index.m3u8
 四川卫视4K,http://222.85.69.145/PLTV/88888888/224/3221227333/index.m3u8
-王这容遥,https://tx.flv.huya.com/src/78941969-2558924260-10990496009641000960-3143878788-10057-A-0-1-imgplus.flv?wsSecret=9b21db0c98d3b9b0585187aac2f9e565&wsTime=69107878&seqid=5135388750431&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=3372788037104&uuid=2258060676&t=103&sv=202510241731&sdk_sid=1762600713277&a_block=0
 
 卫视频道,#genre#
 北京卫视,http://222.85.81.15:6060/PLTV1/1020/index.m3u8?icpid=dxrm1&servicetype=
