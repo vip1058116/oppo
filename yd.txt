@@ -214,7 +214,7 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226668/index.m3u8
 
-北京移动,#genre#
+杯竟一动,#genre#
 凤凰,http://122.195.244.21:2380/tptv.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228524/1.m3u8
 地理,http://122.195.244.21:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.200:80/PLTV/4/224/3221228680/1.m3u8
 CCTV16 31M2160HDR,http://122.195.244.21:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
