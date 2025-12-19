@@ -166,11 +166,11 @@ CCTV戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u
 百姓调解,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8
 
 竞技体育,#genre#
-江苏卫视4K-50-HLG,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227436/index.m3u8
-浙江卫视4K-50-HLG,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227438/index.m3u8
-四川卫视4K-50-HLG,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227444/index.m3u8
-山东卫视4K-50-HLG,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227442/index.m3u8
-湖南卫视4K-50-HLG,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227425/index.m3u8
+江苏卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227436/index.m3u8
+浙江卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227438/index.m3u8
+四川卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227444/index.m3u8
+山东卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227442/index.m3u8
+湖南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227425/index.m3u8
 东方卫视4K-50-HLG,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227427/index.m3u8
 深圳卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227428/index.m3u8
 广东卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227415/index.m3u8
@@ -186,8 +186,6 @@ CCTV4K,http://39.135.168.2/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227
 河南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/1.m3u8
 河南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 欢笑剧场4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226704/1.m3u8
-黑莓电影,http://39.135.168.2/000000000001/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=0056&version=11.0&owaccmark=1000000004000019624&owchid=ystenlive&ows...
-王这容遥,https://tx.flv.huya.com/src/78941969-2558924260-10990496009641000960-3143878788-10057-A-0-1-imgplus.flv?wsSecret=9b21db0c98d3b9b0585187aac2f9e565&wsTime=69107878&seqid=5135388750431&ctype=tars_mobile&ver=1&fs=bgct&t=103&ratio=2000&dMod=mseh-0&sdkPcdn=1_1&uid=3372788037104&uuid=2258060676&t=103&sv=202510241731&sdk_sid=1762600713277&a_block=0
 
 
 春晚频道,#genre#
