@@ -27,6 +27,7 @@ CCTV-3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226614/1.m3u8
 CCTV-4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227235/1.m3u8
 CCTV-5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/1.m3u8
 CCTV-5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226609/1.m3u8
+CCTV-5+,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227105/10000100000000060000000011665501_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 CCTV-6,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227237/1.m3u8
 CCTV-7,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226678/1.m3u8
 CCTV-8,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227264/1.m3u8
@@ -182,7 +183,6 @@ CCTV戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u
 深圳卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227428/index.m3u8
 广东卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227415/index.m3u8
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227426/index.m3u8
-CCTV4K,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227105/10000100000000060000000011665501_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227357/index.m3u8?fmt=ts2hls
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8
