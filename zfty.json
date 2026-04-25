@@ -3,7 +3,7 @@
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 "sites":[
-{"key":"点我切源","name":"新增嘟嘟盘，到【太太太硬了】领免费容量","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"点我切源","name":"少看手机，多看电视","type": 3, "api": "csp_DouDouGuard","indexs":1,"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"MDrive","name":"🗂我的云盘┃我配置","type":3,"api":"csp_MyDriveGuard","changeable":0,"indexs":0,"searchable":1,"style":{"type":"oval"},"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt"}},
 {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGGGuard","timeout":30,"searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt"}},
 {"key":"YGP","name":"🚀叨观荐影┃预告片","type":3,"api":"csp_YGPGuard","searchable":0,"quickSearch":0,"changeable":0},
@@ -63,8 +63,8 @@
 "logo":"https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
 "hosts":["img1.wsyzy.org=danmu.888484.xyz","fiizvfck.top=danmu.888484.xyz"],
 "lives":[
-{"name":"电信","type":0,"url":"https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/yd.txt","playerType":2,"epg":"https://diyp.epg.qzz.io/?ch={name}&date={date}"},
-{"name":"移动","type":0,"url":"https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/yd.txt","playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"一动","type":0,"url":"https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/yd.txt","playerType":2,"epg":"https://diyp.epg.qzz.io/?ch={name}&date={date}"},
+{"name":"点心","type":0,"url":"https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/dx.txt","playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Kimentanm","type":0,"url":"https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","playerType":2},
 {"name":"develop202","type":0,"url":"https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt","playerType":2,"epg":"http://diyp5.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"范明明V6络","type":0,"url":"https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u","playerType":2},
