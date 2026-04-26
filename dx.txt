@@ -53,6 +53,7 @@ CCTV-农业农村,http://222.85.81.15:6060/PLTV1/360/index.m3u8?icpid=dxrm1&serv
 江苏卫视4K,http://222.85.69.145/PLTV/88888888/224/3221227330/index.m3u8
 四川卫视4K,http://222.85.69.145/PLTV/88888888/224/3221227333/index.m3u8
 
+CCTV央视4k,http://222.85.69.6/PLTV/88888888/224/3221227244/index.m3u8?icpid=88888888&servicetype=1
 四川卫视4K,http://222.85.69.6/PLTV/88888888/224/3221227333/index.m3u8?icpid=88888888&servicetype=1
 山东卫视4K,http://222.85.69.6/PLTV/88888888/224/3221227274/index.m3u8?icpid=88888888&servicetype=1
 浙江卫视4K,http://222.85.69.6/PLTV/88888888/224/3221227275/index.m3u8?icpid=88888888&servicetype=1
