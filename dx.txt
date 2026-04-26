@@ -53,6 +53,16 @@ CCTV-农业农村,http://222.85.81.15:6060/PLTV1/360/index.m3u8?icpid=dxrm1&serv
 江苏卫视4K,http://222.85.69.145/PLTV/88888888/224/3221227330/index.m3u8
 四川卫视4K,http://222.85.69.145/PLTV/88888888/224/3221227333/index.m3u8
 
+四川卫视4K,http://222.85.69.6/PLTV/88888888/224/3221227333/index.m3u8?icpid=88888888&servicetype=1
+山东卫视4K,http://222.85.69.6/PLTV/88888888/224/3221227274/index.m3u8?icpid=88888888&servicetype=1
+浙江卫视4K,http://222.85.69.6/PLTV/88888888/224/3221227275/index.m3u8?icpid=88888888&servicetype=1
+北京卫视4k,http://222.85.69.6/PLTV/88888888/224/3221227108/index.m3u8?icpid=88888888&servicetype=1
+湖南卫视4K,http://222.85.69.6/PLTV/88888888/224/3221227278/index.m3u8?icpid=88888888&servicetype=1
+江苏卫视4K,http://222.85.69.6/PLTV/88888888/224/3221227330/index.m3u8?icpid=88888888&servicetype=1
+东方卫视4K,http://222.85.69.6/PLTV/88888888/224/3221227271/index.m3u8?icpid=88888888&servicetype=1
+河南卫视4K,http://222.85.69.6/PLTV/88888888/224/3221226954/index.m3u8?icpid=88888888&servicetype=1
+
+
 卫视频道,#genre#
 北京卫视,http://222.85.81.15:6060/PLTV1/1020/index.m3u8?icpid=dxrm1&servicetype=
 深圳卫视,http://222.85.81.15:6060/PLTV1/1240/index.m3u8?icpid=dxrm1&servicetype=
