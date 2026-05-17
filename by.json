@@ -64,7 +64,13 @@
 "hosts":["img1.wsyzy.org=danmu.888484.xyz","fiizvfck.top=danmu.888484.xyz"],
 "lives":[
 {"name":"一动","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/vip1058116/oppo/refs/heads/main/yd.txt",
-"playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}"},
+"playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}", 
+        "catchup": {
+        "days": "7",
+        "type": "append",
+        "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+      }
+      },
 {"name":"点心","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/vip1058116/oppo/refs/heads/main/dx.txt",
 "playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Kimentanm","type":0,"url":"https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u","playerType":2},
