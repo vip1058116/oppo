@@ -64,9 +64,8 @@
 "hosts":["img1.wsyzy.org=danmu.888484.xyz","fiizvfck.top=danmu.888484.xyz"],
 "lives":[
 {"name":"一动","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/vip1058116/oppo/refs/heads/main/yd.txt",
-"playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}", 
+"playerType":2,"epg":"https://live.lizanyang.top/e.xml/?ch={name}&date={date}", 
         "catchup": {
-        "days": "3",
         "type": "append",
         "source": "?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
       }
