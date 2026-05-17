@@ -68,7 +68,7 @@
             "type": 0,
             "url": "https://ghfast.top/https://raw.githubusercontent.com/vip1058116/oppo/refs/heads/main/yd.txt",
             "playerType": 2,
-            "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
+            "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}"},
             "catchup": {
                 "days": "7",
                 "type": "append",
