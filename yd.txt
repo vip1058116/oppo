@@ -198,6 +198,19 @@ CCTV4K,http://39.135.168.2/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227
 河南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/1.m3u8
 河南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 多彩文体4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226704/1.m3u8
+CCTV兵器科技,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221227485/index.m3u8
+CCTV风云足球,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221227489/index.m3u8
+CCTV第一剧场,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221227498/index.m3u8
+CCTV怀旧剧场,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221227502/index.m3u8
+CCTV风云剧场,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221227500/index.m3u8
+CCTV风云音乐,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221227504/index.m3u8
+CCTV央视台球,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221227506/index.m3u8
+CCTV高夫网球,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221227508/index.m3u8
+CCTV女性时尚,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221227510/index.m3u8
+CCTV世界地理,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221227512/index.m3u8
+CCTV文化精品,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221227514/index.m3u8
+CCTV卫生健康,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221227516/index.m3u8
+
 
 
 春晚频道,#genre#
