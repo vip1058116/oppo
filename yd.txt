@@ -16,11 +16,17 @@ CCTV-13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226919/1.m3u8?f
 CCTV-14,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226958/1.m3u8?fmt=ts2hls
 CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226524/1.m3u8?fmt=ts2hls
 CCTV-17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?fmt=ts2hls
+
+
 CCTV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227470/index.m3u8
+CCTV-3,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226960/10000100000000060000000008219368_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
+CCTV-3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226461/index.m3u8
+CCTV-3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226308/index.m3u8
 CCTV-5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227464/index.m3u8
 CCTV-5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227348/index.m3u8
 CCTV-6,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227462/index.m3u8
 CCTV-8,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227460/index.m3u8
+
 
 CCTV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227262/1.m3u8
 CCTV-2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226569/1.m3u8
