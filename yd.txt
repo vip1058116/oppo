@@ -1,4 +1,4 @@
-央视频道_6666,#genre#
+央视频道_666,#genre#
 CCTV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226917/1.m3u8?fmt=ts2hls
 CCTV-2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226970/1.m3u8?fmt=ts2hls
 CCTV-3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226960/1.m3u8?fmt=ts2hls
@@ -181,7 +181,7 @@ CCTV戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u
 河南功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8
 百姓调解,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8
 
-竞技体育,#genre#
+竞技体育-123,#genre#
 CHC影迷电影,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227522/index.m3u8
 CHC家庭影院,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227477/index.m3u8
 CHC动作电影,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227479/index.m3u8
