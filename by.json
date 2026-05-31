@@ -2,6 +2,27 @@
   "spider": "https://img2.gelonghui.com/library/b81a5-c1c17953-7221-4d19-bad2-307960c010f0.png;md5;b81a5747f91e7169bdc7e3f68bd995e0",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "logo": "http://feimao.pro/fm.gif",
+  "lives": [
+    {"name":"一动","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/vip1058116/oppo/refs/heads/main/yd.txt",
+"playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}"},
+    {"name":"点心","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/vip1058116/oppo/refs/heads/main/dx.txt",
+"playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    {
+      "name": "Kimentanm",
+      "type": 0,
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "playerType": 2
+    },
+    {
+      "name": "develop202",
+      "type": 0,
+      "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "playerType": 2,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+
   "sites": [
     {
       "key": "点我切源",
@@ -503,26 +524,7 @@
       ]
     }
   ],
-  "lives": [
-    {"name":"一动","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/vip1058116/oppo/refs/heads/main/yd.txt",
-"playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}"},
-    {"name":"点心","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/vip1058116/oppo/refs/heads/main/dx.txt",
-"playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-    {
-      "name": "Kimentanm",
-      "type": 0,
-      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "playerType": 2
-    },
-    {
-      "name": "develop202",
-      "type": 0,
-      "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-      "playerType": 2,
-      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
+  
   "headers": [
     {
       "host": "hlsztemgsplive.miguvideo.com",
