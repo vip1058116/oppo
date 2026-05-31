@@ -125,7 +125,7 @@
     },
     {
       "key": "再来",
-      "name": "✌️┃再来┃APP",
+      "name": "┃再来┃APP",
       "type": 3,
       "api": "csp_AppGet",
       "ext": "https://vv.229d.cn|8888888888888888"
@@ -146,7 +146,7 @@
     },
     {
       "key": "永永",
-      "name": "♾️┃永永┃APP",
+      "name": "┃永永┃APP",
       "type": 3,
       "api": "csp_AppGet",
       "ext": "https://444421.xyz|#getapp@TMD@2025|120"
@@ -623,7 +623,7 @@
       ]
     },
     {
-      "name": "♻️360",
+      "name": "360",
       "hosts": [
         "lyhuicheng"
       ],
