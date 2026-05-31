@@ -4,8 +4,8 @@
   "logo": "http://feimao.pro/fm.gif",
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "🐼┃公众号：我不是肥猫┃",
+      "key": "点我切源",
+      "name": "少看手机，多看电视",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
