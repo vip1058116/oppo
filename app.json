@@ -14,6 +14,10 @@
             "name": "加菲猫"
         },
         {
+            "url": "http://www.饭太硬.net/tv",
+            "name": "饭不硬"
+        },
+        {
             "url": "https://yydsys.netlify.app/config.json",
             "name": "多多益善"
         },		
@@ -25,13 +29,9 @@
             "url": "http://hello.肥猫.net,http://肥猫.net",
             "name": "加菲猫备用"
         }, 
-        {
-            "url": "http://www.饭太硬.net/tv",
-            "name": "饭硬"
-        },        				
-        {
+       	{
             "url": "http://www.饭太硬.com/tv,http://www.饭太硬.art/tv,",
-            "name": "饭太硬"
+            "name": "饭太硬备用"
         }, 
         {
             "url": "http://我不是.摸鱼儿.com",
