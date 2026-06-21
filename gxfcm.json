@@ -1,34 +1,11 @@
 ﻿{
-  "spider": "https://img2.gelonghui.com/library/e2693-9aa941a0-f96a-40c2-ac23-e6af358d19a7.png;md5;e2693c58ebc58abecc7282b721db79ca",
-  "wallpaper": "https://ghfast.top/https://raw.githubusercontent.com/vip1058116/oppo/refs/heads/main/pic/jin.jpg",
-  "logo": "https://ghfast.top/https://raw.githubusercontent.com/vip1058116/oppo/refs/heads/main/pic/mao.jpg",
-
-
-  "lives": [
-    {"name":"一动","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/vip1058116/oppo/refs/heads/main/yd.txt",
-"playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}"},
-    {"name":"点心","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/vip1058116/oppo/refs/heads/main/dx.txt",
-"playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-    {
-      "name": "Kimentanm",
-      "type": 0,
-      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-      "playerType": 2
-    },
-    {
-      "name": "develop202",
-      "type": 0,
-      "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-      "playerType": 2,
-      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
-
-"sites": [
+    "spider": "https://img2.gelonghui.com/library/e2693-9aa941a0-f96a-40c2-ac23-e6af358d19a7.png;md5;e2693c58ebc58abecc7282b721db79ca",
+    "wallpaper": "https://ghfast.top/https://raw.githubusercontent.com/vip1058116/oppo/refs/heads/main/pic/jin.jpg",
+    "logo": "https://ghfast.top/https://raw.githubusercontent.com/vip1058116/oppo/refs/heads/main/pic/mao.jpg",
+    "sites": [
         {
             "key": "豆瓣",
-            "name": "少看手机，多看电视",
+            "name": "🐼┃公众号：我不是肥猫┃",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -74,13 +51,11 @@
             "filterable": 1,
             "ext": {
                 "site_urls": [
-                    "http://xiaocge.fun",
+                    "http://tvpanpan.site",
                     "http://feimo.fun",
-                    "http://www.labi88.sbs",
-                    "http://fmao.site",
-                    "http://fmao.shop",
                     "http://xiaocgege.shop",
-                    "http://www.xiaocgege.shop"
+                    "http://www.xiaocgege.shop",
+                    "https://www.xiaocge.fun"
                 ],
                 "threadinfo": {
                     "chunksize": 512,
@@ -97,12 +72,11 @@
             "filterable": 1,
             "ext": {
                 "site_urls": [
+                    "https://www.zhizhen8.click",
                     "https://pan.mihdr.top",
                     "https://www.zhizhen1.top",
                     "https://www.mihdr.top",
-                    "https://www.miqk.cc",
-                    "https://www.zhizhenpan.com",
-                    "https://www.zhizhen8.click"
+                    "https://www.miqk.cc"
                 ],
                 "url_key": "Netfixtv2",
                 "threadinfo": {
@@ -530,7 +504,11 @@
             ]
         }
     ],
-    //"lives": [
+    "lives": [
+         {"name":"一动","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/vip1058116/oppo/refs/heads/main/yd.txt",
+"playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}"},
+    {"name":"点心","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/vip1058116/oppo/refs/heads/main/dx.txt",
+"playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
         {
             "name": "Kimentanm",
             "type": 0,
