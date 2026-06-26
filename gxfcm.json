@@ -1,11 +1,11 @@
 ﻿{
     "spider": "https://img2.gelonghui.com/library/e2693-9aa941a0-f96a-40c2-ac23-e6af358d19a7.png;md5;e2693c58ebc58abecc7282b721db79ca",
-    "wallpaper": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/pic/jin.jpg",
-    "logo": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/pic/mao.jpg",
+    "wallpaper": "https://深色壁纸.xxooo.cf/",
+    "logo": "http://feimao.pro/fm.gif",
     "sites": [
         {
             "key": "豆瓣",
-            "name": "多看电视，少看手机",
+            "name": "🐼┃公众号：我不是肥猫┃",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
