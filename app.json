@@ -2,11 +2,11 @@
 {
     "urls": [
         {
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/vip1058116/oppo/refs/heads/main/gxfcm.json",
+            "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/gxfcm.json",
             "name": "恭喜发财猫"
         }, 
         {
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/vip1058116/oppo/refs/heads/main/gxfcf.json",
+            "url": "https://www-api-cdn.u2378710.nyat.app:22088/vip1058/oppo/raw/branch/main/gxfcf.json",
             "name": "恭喜发财饭"
         },
         {
@@ -15,7 +15,7 @@
         },
         {
             "url": "http://www.饭太硬.net/tv",
-            "name": "饭不硬"
+            "name": "开饭了"
         },
         {
             "url": "https://yydsys.netlify.app/config.json",
