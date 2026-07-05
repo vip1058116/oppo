@@ -49,7 +49,8 @@ CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/1.m3u8
 CCTV-17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/1.m3u8
 CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226592/1.m3u8
 
-竞技体育,#genre#
+
+影视体育,#genre#
 CCTV-5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8?fmt=ts2hls
 CCTV-5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?fmt=ts2hls
 CHC影迷电影,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227522/index.m3u8
