@@ -68,7 +68,6 @@ CHC动作电影,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227479/
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227426/index.m3u8
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227357/index.m3u8?fmt=ts2hls
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8
-CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8
 CCTV4K,http://39.135.168.2/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227426/1.m3u8?icpid=88888888&from=1&hms_devid=18113&vqe=3
 北京卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227411/index.m3u8
 北京卫视4K,http://iptv.cdn.ha.chinamobile.com:80/PLTV/88888888/224/3221226677/index.m3u8
