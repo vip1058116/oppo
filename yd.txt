@@ -17,17 +17,23 @@ CCTV-14,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226958/1.m3u8?f
 CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226524/1.m3u8?fmt=ts2hls
 CCTV-17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?fmt=ts2hls
 
-
-CCTV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227470/index.m3u8
-CCTV-3,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226960/10000100000000060000000008219368_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
-CCTV-3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226461/index.m3u8
-CCTV-3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226308/index.m3u8
-CCTV-5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227323/index.m3u8
-CCTV-5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227464/index.m3u8
-CCTV-5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227348/index.m3u8
-CCTV-6,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227462/index.m3u8
-CCTV-8,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227460/index.m3u8
-
+CCTV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227262/index.m3u8
+CCTV-2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226569/index.m3u8
+CCTV-3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226614/index.m3u8
+CCTV-4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227235/index.m3u8
+CCTV-5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8
+CCTV-5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226609/index.m3u8
+CCTV-6,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227237/index.m3u8
+CCTV-7,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226678/index.m3u8
+CCTV-8,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227264/index.m3u8
+CCTV-9,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226726/index.m3u8
+CCTV-10,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226528/index.m3u8
+CCTV-11,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+CCTV-12,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226560/index.m3u8
+CCTV-13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8
+CCTV-14,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226572/index.m3u8
+CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8
+CCTV-17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u8
 
 CCTV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227262/1.m3u8
 CCTV-2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226569/1.m3u8
@@ -35,7 +41,6 @@ CCTV-3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226614/1.m3u8
 CCTV-4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227235/1.m3u8
 CCTV-5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/1.m3u8
 CCTV-5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226609/1.m3u8
-CCTV-5+,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227105/10000100000000060000000011665501_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 CCTV-6,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227237/1.m3u8
 CCTV-7,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226678/1.m3u8
 CCTV-8,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227264/1.m3u8
@@ -49,11 +54,13 @@ CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/1.m3u8
 CCTV-17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/1.m3u8
 CETV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226592/1.m3u8
 
+CCTV-3,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226960/10000100000000060000000008219368_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
+CCTV-3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226461/index.m3u8
+CCTV-3,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226308/index.m3u8
+
 
 影视体育,#genre#
-CCTV-5,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8?fmt=ts2hls
-CCTV-5+,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?fmt=ts2hls
-CCTV-6,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?fmt=ts2hls
+CCTV电影频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227237/1.m3u8
 CHC影迷电影,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227522/index.m3u8
 CHC家庭影院,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227477/index.m3u8
 CHC动作电影,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227479/index.m3u8
